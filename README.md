@@ -11,7 +11,7 @@ Ana Muslim is a comprehensive Islamic app developed with Flutter, designed to of
 - **Radio Streaming**: Live radio stations featuring Quranic recitations and Islamic lectures.
 - **Digital Sebha**: Built-in counter for digital tasbeeh (prayer beads).
 - **Dark/Light Mode**: Switch between dark and light themes for comfortable reading.
-- **Bilingual Support**:Arabic and English language options for a wider audience.
+- **Bilingual Support**: Arabic and English language options for a wider audience.
 - **Additional Features**: Regular updates and new content for an enriching user experience.
 
 
@@ -20,7 +20,7 @@ Ana Muslim is a comprehensive Islamic app developed with Flutter, designed to of
 - **Flutter**: Primary framework for a responsive and flexible UI.
 - **Firebase Core**:  Backend support for data handling and potential scalability.
 - **Audio Players**:  Streamlined audio playback for radio and Quranic recitations.
-- **Provider**:State management for efficient app navigation and performance.
+- **Provider**: State management for efficient app navigation and performance.
 - **Lottie**: Animated illustrations to enhance user experience.
 
 
