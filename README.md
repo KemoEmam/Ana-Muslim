@@ -27,7 +27,7 @@ Ana Muslim is a comprehensive Islamic app developed with Flutter, designed to of
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/709d7f42-6d7c-4610-b225-97c50df77ac7
+https://github.com/user-attachments/assets/e710ae92-87df-413f-b12e-2b4f809994c9
 
 
 ## License
