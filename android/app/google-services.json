@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059490790502",
+    "project_id": "ana-muslim-872ec",
+    "storage_bucket": "ana-muslim-872ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059490790502:android:463829f01d1226706501a7",
+        "android_client_info": {
+          "package_name": "com.kemo.anaMuslim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_WWStGNN9iRDpKrwZa1MvFzsfTsYcDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+{
+    "@@locale": "ar", 
+    "app_title": "مسلم",
+    "sura_name": "اسم السورة",
+    "sura_number": "رقم السورة",
+    "quran": "القرآن",
+    "quran_kareem": "القرآن الكريم",
+    "hadith": "الحديث",
+    "hadith_name": "الأحاديث",
+    "sebha": "التسبيح",
+    "radio": "الراديو",
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "theme": "المظهر",
+    "light": "فاتح",
+    "dark": "داكن",
+    "english": "اللغة الإنجليزية",
+    "arabic": "اللغة العربية",
+    "reset": "إعادة ضبط",
+    "sebha_numbers": "عدد التسبيحات",
+    "subhan_allah": "سبحان اللّه",
+    "home": "الرئيسية",
+    "rating": "التقييم"
+  }
+  
